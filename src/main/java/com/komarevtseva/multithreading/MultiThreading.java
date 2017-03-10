@@ -28,7 +28,7 @@ public class MultiThreading {
         while (mt1.isAlive());
         mt2.stop();
         System.out.println("End of input");
-        //System.out.println("LinkedList"+ sharedList);
+        
     }
     
 }
